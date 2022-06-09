@@ -1,0 +1,35 @@
+﻿@model flowbox.shared.Models.Produto
+
+<h3>Adicionar produto</h3>
+
+@using (Html.BeginForm("PostEditar", "Produto", FormMethod.Post, new {  })){
+	<div class="row">
+		<section>
+			
+			
+			
+			
+			
+			
+			
+			
+
+			<table>
+				<tr><label>Nome do Produto</label></tr><br>
+				<tr>@Html.TextBoxFor(p => p.Nome )<p></p></tr>
+				
+				<tr><label>Preço</label></tr><br>
+				<tr>@Html.TextBoxFor(p => p.Preco )<p></p></tr>
+				
+				<tr><label>Código de Barras</label></tr><br>
+				<tr>@Html.TextBoxFor(p => p.CodigoDeBarra )<p></p></tr>
+				
+				<tr><label>Vai pro controle de estoque?</label></tr><br>
+				<tr>@Html.TextBoxFor(p => p.ControleDeEstoque )<p></p></tr>
+
+			</table>
+		</section>
+	</div>
+
+	<button type="submit" class="btn btn-primary">Gravar</button>
+}

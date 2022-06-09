@@ -1,0 +1,29 @@
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.deps.json
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.dll
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.pdb
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.csproj.AssemblyReference.cache
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.AssemblyInfoInputs.cache
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.AssemblyInfo.cs
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.csproj.CoreCompileInputs.cache
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.dll
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\refint\flowbox.shared.dll
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.pdb
+C:\Users\murillo.jorge\source\repos\flowbox.web\flowbox.shared\obj\Debug\net5.0\ref\flowbox.shared.dll
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.deps.json
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.dll
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\ref\flowbox.shared.dll
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.pdb
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.csproj.AssemblyReference.cache
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.AssemblyInfoInputs.cache
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.AssemblyInfo.cs
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.csproj.CoreCompileInputs.cache
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.dll
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\ref\flowbox.shared.dll
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.pdb
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.runtimeconfig.json
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\bin\Debug\net5.0\flowbox.shared.runtimeconfig.dev.json
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.genruntimeconfig.cache
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.Migrations.Initial.resources
+D:\Google Drive\Anhanguera\Projeto integrador\flowbox.web\flowbox.shared\obj\Debug\net5.0\flowbox.shared.csproj.GenerateResource.cache

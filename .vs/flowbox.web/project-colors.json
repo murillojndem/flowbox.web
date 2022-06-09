@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dea946c8-ac81-43ef-b25b-23591eee03c7": {
+      "ProjectGuid": "dea946c8-ac81-43ef-b25b-23591eee03c7",
+      "DisplayName": "flowbox.site",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fa341516-5baf-4493-96d8-d8d0d87c35be": {
+      "ProjectGuid": "fa341516-5baf-4493-96d8-d8d0d87c35be",
+      "DisplayName": "flowbox.api",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

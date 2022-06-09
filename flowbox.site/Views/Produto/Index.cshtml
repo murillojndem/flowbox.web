@@ -1,0 +1,27 @@
+﻿@model List<flowbox.shared.Models.Produto>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+    <button type="button" onclick="location.href='@Url.Action("Post", "Produto")'" class="btn btn-primary">Adicionar Produto</button>
+    <table>
+        <thead>
+
+        <tr>
+            <th>Nome</th>
+            <th>Preço</th>
+        </tr>
+    </thead>
+        <tbody>
+            <br>
+    @foreach(var produto in Model)
+    {
+        <tr>
+            <td>@produto.Nome</td>
+            <td>@produto.Preco</td>
+        </tr>
+    }
+        </tbody>
+</table>
