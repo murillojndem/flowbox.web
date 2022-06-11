@@ -1448,11 +1448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
+      "projectUniqueName": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
       "projectName": "flowbox.shared",
-      "projectPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
+      "projectPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
       "packagesPath": "C:\\Users\\Murillo\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\obj\\",
+      "outputPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",

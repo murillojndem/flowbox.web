@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj": {}
+    "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj": {}
   },
   "projects": {
-    "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj": {
+    "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
+        "projectUniqueName": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
         "projectName": "flowbox.shared",
-        "projectPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
+        "projectPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj",
         "packagesPath": "C:\\Users\\Murillo\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\obj\\",
+        "outputPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj": {
+    "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj",
+        "projectUniqueName": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj",
         "projectName": "flowbox.api",
-        "projectPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj",
+        "projectPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.web\\flowbox.api.csproj",
         "packagesPath": "C:\\Users\\Murillo\\.nuget\\packages\\",
-        "outputPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.web\\obj\\",
+        "outputPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj": {
-                "projectPath": "D:\\Google Drive\\Anhanguera\\Projeto integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj"
+              "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj": {
+                "projectPath": "D:\\Projetos\\Projeto Integrador\\flowbox.web\\flowbox.shared\\flowbox.shared.csproj"
               }
             }
           }
