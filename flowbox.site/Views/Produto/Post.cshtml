@@ -1,35 +1,62 @@
 ﻿@model flowbox.shared.Models.Produto
 
-<h3>Adicionar produto</h3>
 
-@using (Html.BeginForm("PostEditar", "Produto", FormMethod.Post, new {  })){
-	<div class="row">
-		<section>
-			
-			
-			
-			
-			
-			
-			
-			
 
-			<table>
-				<tr><label>Nome do Produto</label></tr><br>
-				<tr>@Html.TextBoxFor(p => p.Nome )<p></p></tr>
+
+<div class="wrapper">
+<section class="content-wrapper">
+    
+<section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-2">
+            <h1>Adicionar Produto</h1>
+          </div>
+          <div class="col-sm-2">
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+             
+   <div class="wrapper">
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-2">
+            <div class="card">
+              <div class="card-header">
+
+  	@using (Html.BeginForm("PostEditar", "Produto", FormMethod.Post, new {  })){
+		<div class="row">
+			<section>
+				<table>
+					<tr><label>Nome do Produto</label></tr><br>
+					<tr>@Html.TextBoxFor(p => p.Nome )<p></p></tr>
 				
-				<tr><label>Preço</label></tr><br>
-				<tr>@Html.TextBoxFor(p => p.Preco )<p></p></tr>
+					<tr><label>Preço</label></tr><br>
+					<tr>@Html.TextBoxFor(p => p.Preco )<p></p></tr>
 				
-				<tr><label>Código de Barras</label></tr><br>
-				<tr>@Html.TextBoxFor(p => p.CodigoDeBarra )<p></p></tr>
+					<tr><label>Código de Barras</label></tr><br>
+					<tr>@Html.TextBoxFor(p => p.CodigoDeBarra )<p></p></tr>
 				
-				<tr><label>Vai pro controle de estoque?</label></tr><br>
-				<tr>@Html.TextBoxFor(p => p.ControleDeEstoque )<p></p></tr>
+					<tr><label>Vai pro controle de estoque?</label></tr><br>
+					<tr>@Html.TextBoxFor(p => p.ControleDeEstoque )<p></p></tr>
 
-			</table>
-		</section>
-	</div>
+				</table>
+			</section>
+		</div>
+		}
+              </div>
+            </div>
+          </div>
+        </div>
+      <button type="submit" class="btn btn-primary">Gravar</button>
+      </div>
+    </section>
 
-	<button type="submit" class="btn btn-primary">Gravar</button>
-}
+    
+                
+
+</div>
+</div>
+</div>

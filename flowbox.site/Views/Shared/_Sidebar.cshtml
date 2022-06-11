@@ -45,9 +45,8 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a onclick="location.href='@Url.Action("Index", "Produto")'" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Produtos</p>
+                <a  class="nav-link">
+                  @Html.ActionLink("Produto", "Index", "Produto", null, new { @class = "page-scroll" })
                 </a>
               </li>
               <li class="nav-item">
