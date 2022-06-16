@@ -15,7 +15,12 @@
       "ProjectGuid": "fa341516-5baf-4493-96d8-d8d0d87c35be",
       "DisplayName": "flowbox.api",
       "ColorIndex": 1
+    },
+    "babf024e-23a5-4295-8542-da3422a80c72": {
+      "ProjectGuid": "babf024e-23a5-4295-8542-da3422a80c72",
+      "DisplayName": "flowbox.shared",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
